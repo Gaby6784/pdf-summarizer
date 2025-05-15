@@ -34,8 +34,8 @@ streamlit run lite.py
 
 ## Want the full version?
 
-You can get it here:
-
+You can get it here:  
+[Buy full version](https://www.fiverr.com/s/ak1z5zA)
 
 ## Built with
 
